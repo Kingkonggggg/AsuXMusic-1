@@ -24,7 +24,7 @@ HELPABLE = {}
 
 async def AsuX_boot():
     with console.status(
-        "[magenta] ʙᴏᴏᴛɪɴɢ AsuX ᴍᴜsɪᴄ...",
+        "[magenta] ʙᴏᴏᴛɪɴɢ ιккυ ᴍᴜsɪᴄ...",
     ) as status:
         console.print("┌ [red]ᴄʟᴇᴀʀɪɴɢ ᴍᴏɴɢᴏᴅʙ ᴄᴀᴄʜᴇ...")
         try:
